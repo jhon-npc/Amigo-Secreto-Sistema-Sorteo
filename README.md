@@ -1,2 +1,2 @@
 <h1 align="center"> 🔎 Amigo secreto </h1>
-![](https://github.com/user-attachments/assets/3214881d-9e99-46d4-9741-04720599c4c7)
+![Imagen descriptiva](https://github.com/jhon-npc/Amigo-Secreto-Sistema-Sorteo/blob/02a02f2e1d42692cf3d2bf21f860b23805868fa9/assets/AmigoSecreto.PNG)
